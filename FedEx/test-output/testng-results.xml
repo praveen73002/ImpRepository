@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33755" started-at="2018-03-04T08:29:15Z" finished-at="2018-03-04T08:29:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33755" started-at="2018-03-04T08:29:15Z" finished-at="2018-03-04T08:29:49Z">
+      <class name="practice.BrowserStackTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:practice.BrowserStackTest@735b5592]" name="f" duration-ms="33644" started-at="2018-03-04T13:59:15Z" finished-at="2018-03-04T13:59:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- practice.BrowserStackTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
